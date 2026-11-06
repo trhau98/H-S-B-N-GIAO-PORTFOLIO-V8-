@@ -1,0 +1,1 @@
+06/11 | Viết mục Cách mở trong README và chỉnh sửa Git | AI gợi ý 3 bước hướng dẫn mở trang web và câu lệnh Git | Em điều chỉnh lại đường dẫn tệp cho khớp với cấu trúc thư mục thực tế của dự án.
